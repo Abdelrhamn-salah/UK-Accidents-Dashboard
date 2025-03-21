@@ -12,6 +12,7 @@ The **Road Accident Dashboard** is an interactive analytical tool designed to ex
   - **Total Accidents**: Overall count of reported accidents.
   - **Total Casualties**: Aggregate number of individuals affected.
   - **Accident Severity Breakdown**: A KPI widget categorizing accidents into fatal, serious, and slight.
+  - **Casualties by Vehicle Type**: A metric comparing casualties across different vehicle types
 - **Trend Analysis**:
   - Line charts or sparklines for each KPI, enabling year-over-year (YoY) comparisons.
 
